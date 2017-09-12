@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="serial">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/p3.01/library/serial.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

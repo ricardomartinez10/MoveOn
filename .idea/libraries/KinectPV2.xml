@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KinectPV2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/kinectPV2/KinectPV2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
